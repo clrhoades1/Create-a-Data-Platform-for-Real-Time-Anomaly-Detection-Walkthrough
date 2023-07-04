@@ -1,3 +1,5 @@
 pandas
 Plotly
 notebook
+scikit-learn
+Matplotlib
